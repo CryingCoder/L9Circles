@@ -1,0 +1,15 @@
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\bin\Debug\net6.0\L9Circles.exe
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\bin\Debug\net6.0\L9Circles.deps.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\bin\Debug\net6.0\L9Circles.runtimeconfig.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\bin\Debug\net6.0\L9Circles.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\bin\Debug\net6.0\L9Circles.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\L9Circles.csproj.AssemblyReference.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\L9Circles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\L9Circles.AssemblyInfoInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\L9Circles.AssemblyInfo.cs
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\L9Circles.csproj.CoreCompileInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\L9Circles.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\refint\L9Circles.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\L9Circles.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\L9Circles.genruntimeconfig.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L9Circles\obj\Debug\net6.0\ref\L9Circles.dll
